@@ -18,6 +18,7 @@ This page follows the public GitHub profile as the ground truth for current proj
 
 ## Open Research
 
+- [The Fundamental Memory Ceiling of Noisy Quantum Reservoirs](https://github.com/eybmits/fresh-qubits-memory): Markus Baumann, Jonas Stein, and Claudia Linnhoff-Popien. Size-independent bounds on input memory under local depolarizing noise, with fresh-qubit supply as the limiting resource. Submitted to Physical Review Letters, 19 October 2026. [Full manuscript and Supplemental Material](https://github.com/eybmits/fresh-qubits-memory/blob/main/paper/memory_limits_prl_2026-10-19-concise.pdf); code and data in the repository.
 - QRC Operating Band: https://github.com/eybmits/qrc-operating-band
 - VQML Symmetry Artifact: https://github.com/eybmits/vqml-symmetry-artifact
 - IQP Generative Modeling: https://github.com/eybmits/iqp-generative-modeling

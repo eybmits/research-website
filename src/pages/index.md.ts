@@ -8,6 +8,16 @@ ${SITE.desc}
 
 [Principles I believe in.](/posts/2026/things-i-believe-in)
 
+## Latest research
+
+### The Fundamental Memory Ceiling of Noisy Quantum Reservoirs
+
+Markus Baumann, Jonas Stein, and Claudia Linnhoff-Popien. Submitted to Physical Review Letters, 19 October 2026.
+
+Size-independent bounds on input memory under local depolarizing noise, with fresh-qubit supply as the limiting resource.
+
+[Full manuscript and Supplemental Material](https://github.com/eybmits/fresh-qubits-memory/blob/main/paper/memory_limits_prl_2026-10-19-concise.pdf) · [Code and data](https://github.com/eybmits/fresh-qubits-memory)
+
 ## Navigation
 
 - [About](/about.md)
